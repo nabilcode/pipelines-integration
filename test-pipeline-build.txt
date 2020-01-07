@@ -1,2 +1,2 @@
 This is a test of a build of a pipeline
-This is a test of Azure Boards
+This is a test of Azure Boards.
